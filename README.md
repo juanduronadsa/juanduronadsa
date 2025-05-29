@@ -10,3 +10,15 @@
 ![Website](https://img.shields.io/badge/pinbox.seccionamarilla.com-up-green?style=for-the-badge)
 
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/juanduronadsa/juanduronadsa/main)
+
+# ¡Bienvenido a la wiki
+
+Aquí podrás encontrar todas las secciones para poder implementar tu proyecto de manera rápida y simple.
+
+## Índice de navegación
+
+[Explicación del proyecto](./Proyecto)
+
+[Arquitectura](./Arquitectura)
+
+[Documentación](./Documentación)
