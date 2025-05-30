@@ -22,3 +22,9 @@ Aquí podrás encontrar todas las secciones para poder implementar tu proyecto d
 [Arquitectura](./Arquitectura)
 
 [Documentación](./Documentación)
+
+
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity--> 
