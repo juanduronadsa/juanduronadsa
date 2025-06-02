@@ -13,7 +13,6 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
-      - uses: juanduronadsa/github-activity-readme@main
+      - uses: actions/checkout@v4    
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
