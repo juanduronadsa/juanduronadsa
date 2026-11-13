@@ -28,9 +28,8 @@ Aquí podrás encontrar todas las secciones para poder implementar tu proyecto d
 <!--RECENT_ACTIVITY:start-->
 1. ✔️ Closed issue [#5](https://github.com/juanduronadsa/miPrimerRepo/issues/5) in [juanduronadsa/miPrimerRepo](https://github.com/juanduronadsa/miPrimerRepo)<br>
 2. ✔️ Closed issue [#1](https://github.com/juanduronadsa/miPrimerRepo/issues/1) in [juanduronadsa/miPrimerRepo](https://github.com/juanduronadsa/miPrimerRepo)<br>
-3. ⭐ Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update--> 
-Last Updated: Friday, November 13th, 2026, 5:44:23 AM
+Last Updated: Friday, November 13th, 2026, 7:22:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
